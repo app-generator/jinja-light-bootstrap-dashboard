@@ -1,4 +1,4 @@
-# [Jinja Template - Light Bootstrap](https://github.com/app-generator/jinja-template-light-bootstrap)
+# [Jinja Template](https://github.com/app-generator/jinja-template) - Light Bootstrap
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
