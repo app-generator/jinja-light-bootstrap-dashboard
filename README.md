@@ -1,8 +1,8 @@
-# [Jinja Template](https://github.com/app-generator/jinja-template)
+# [Jinja Template - Light Bootstrap](https://github.com/app-generator/jinja-template-light-bootstrap)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+- UI Kit: **Light Bootstrap** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -10,19 +10,18 @@
 
 > Links
 
-- [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
-- [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
+- [LIVE Demo](https://jinja-template-light-bootstrap.appseed.us/) - starter in action
+- [Jinja Template - Light Bootstrap](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
 
 <br />
 
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
+## UI Kit - Light Bootstrap
 
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
+Light Bootstrap Dashboard is bootstrap 4 admin dashboard template designed to be beautiful and simple. It is built on top of Bootstrap 4 and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Template Light Bootstrap - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-light-bootstrap/master/media/jinja-template-light-bootstrap-screen.png)
 
 <br />
 
@@ -30,8 +29,8 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-light-bootstrap.git
+$ cd jinja-template-light-bootstrap
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -120,8 +119,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-light-bootstrap.git
+$ cd jinja-template-light-bootstrap
 ```
 
 > Start the app in Docker
@@ -183,4 +182,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Light Bootstrap](https://jinja-template-light-bootstrap.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
